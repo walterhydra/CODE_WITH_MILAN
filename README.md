@@ -59,4 +59,32 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML Badge"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS Badge"/>
 
+<h2 align="Left">🔧 Tools & Platforms </h2> 
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="60">
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="50" height="60">
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="60">
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman Logo" width="50" height="60">
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="60">
+  </a>
+
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman Badge"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma Badge"/>
+
 
