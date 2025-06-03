@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi👋 i Am Milan Pandavadra</h1>
+<h1 align="center">Hi👋 I AM WALTERHYDRA</h1>
 <h2 align="center">I'm a passionate Full-Stack Developer from India</h2>
 <h3 align="center">Frontend Dev 💻 | Open Source Contributor 🤝 | LeetCode Problem Solver 🔍 | Exploring Android Application 📲🧑‍💻</h3>
 
